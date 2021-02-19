@@ -111,7 +111,7 @@ nav a:focus{
 	color: #000;
 }
 
-@media (min-width: 1000px){
+@media (min-width: 720px){
 	.container-flex{
 		flex-direction: row;
 	}
@@ -155,7 +155,7 @@ nav a:focus{
 	background-color: #1792d2;
 }
 
-@media (min-width: 1000px){
+@media (min-width: 720px){
 	.page-description{
 		text-align: left;
 	}
@@ -191,7 +191,7 @@ nav a:focus{
 }
 
 
-@media (min-width: 1000px){
+@media (min-width: 720px){
 	.message-content{
 		display: flex;
 		flex-direction: row;
@@ -287,7 +287,7 @@ nav a:focus{
 	color: #000;
 }
 
-@media (min-width: 1000px){
+@media (min-width: 720px){
 	.services-header{
 		flex: 1;
 		flex-direction: row;
@@ -334,7 +334,7 @@ nav a:focus{
 	background: #fff;
 }
 
-@media (min-width: 1000px){
+@media (min-width: 720px){
 	.contact-content{
 		display: flex;
 		flex-direction: row;
@@ -415,7 +415,7 @@ footer li{
 	font-size: 1rem;
 }
 
-@media (min-width: 1000px){
+@media (min-width: 720px){
 	.footer-main{
 		flex-direction: row;
 		justify-content: space-between;
@@ -425,3 +425,8 @@ footer li{
 		padding-right: 1em;
 	}
 }
+
+
+
+
+
