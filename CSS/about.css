@@ -69,7 +69,7 @@
 	padding: .5em 0 0 1em;
 }
 
-@media only screen and (min-width: 720px){
+@media (min-width: 1000px){
 	.about-info-content{
 		flex-direction: row;
 		justify-content: space-between;
@@ -141,7 +141,7 @@
 	margin-bottom: 2em;
 }
 
-@media only screen and (min-width: 720px){
+@media (min-width: 1000px){
 	.team-body{
 		flex-direction: row;
 	}

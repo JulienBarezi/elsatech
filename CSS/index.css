@@ -111,7 +111,7 @@ nav a:focus{
 	color: #000;
 }
 
-@media only screen and (min-width: 720px){
+@media (min-width: 1000px){
 	.container-flex{
 		flex-direction: row;
 	}
@@ -155,7 +155,7 @@ nav a:focus{
 	background-color: #1792d2;
 }
 
-@media only screen and (min-width: 720px){
+@media (min-width: 1000px){
 	.page-description{
 		text-align: left;
 	}
@@ -191,7 +191,7 @@ nav a:focus{
 }
 
 
-@media only screen and (min-width: 720px){
+@media (min-width: 1000px){
 	.message-content{
 		display: flex;
 		flex-direction: row;
@@ -287,7 +287,7 @@ nav a:focus{
 	color: #000;
 }
 
-@media only screen and (min-width: 720px){
+@media (min-width: 1000px){
 	.services-header{
 		flex: 1;
 		flex-direction: row;
@@ -334,7 +334,7 @@ nav a:focus{
 	background: #fff;
 }
 
-@media only screen and (min-width: 650px){
+@media (min-width: 1000px){
 	.contact-content{
 		display: flex;
 		flex-direction: row;
@@ -415,7 +415,7 @@ footer li{
 	font-size: 1rem;
 }
 
-@media only screen and (min-width: 720px){
+@media (min-width: 1000px){
 	.footer-main{
 		flex-direction: row;
 		justify-content: space-between;
