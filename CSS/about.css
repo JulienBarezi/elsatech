@@ -144,6 +144,7 @@
 @media (min-width: 720px){
 	.team-body{
 		flex-direction: row;
+		justify-content: space-between;
 	}
 
 	.team-thumbnail-image{
@@ -157,6 +158,7 @@
 	}
 
 	.team-thumbnail{
+		width: 80%;
 		text-align: left;
 	}
 }
